@@ -1,0 +1,16 @@
+.\Output\main.o: USER\main.c
+.\Output\main.o: USER\receiveInfared.h
+.\Output\main.o: .\CMSIS\stm32f10x.h
+.\Output\main.o: .\CMSIS\core_cm3.h
+.\Output\main.o: D:\KeilMDK4\ARM\ARMCC\bin\..\include\stdint.h
+.\Output\main.o: .\CMSIS\system_stm32f10x.h
+.\Output\main.o: .\USER\stm32f10x_conf.h
+.\Output\main.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\main.o: .\CMSIS\stm32f10x.h
+.\Output\main.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\main.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\main.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\main.o: .\FWlib\inc\misc.h
+.\Output\main.o: USER\stm32f10x_it.h
+.\Output\main.o: USER\usart.h
+.\Output\main.o: D:\KeilMDK4\ARM\ARMCC\bin\..\include\stdio.h
